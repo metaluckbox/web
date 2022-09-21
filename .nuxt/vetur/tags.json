@@ -1,0 +1,26 @@
+{
+  "Bottom": {
+    "description": "Auto imported from components/Bottom.vue"
+  },
+  "FAQ": {
+    "description": "Auto imported from components/FAQ.vue"
+  },
+  "Head": {
+    "description": "Auto imported from components/Head.vue"
+  },
+  "Loading": {
+    "description": "Auto imported from components/Loading.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "PopupMetamask": {
+    "description": "Auto imported from components/Popup/Metamask.vue"
+  },
+  "PopupSell": {
+    "description": "Auto imported from components/Popup/Sell.vue"
+  }
+}

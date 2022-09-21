@@ -1,0 +1,37 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/bottom.js": "components/bottom.js",
+    "components/f-a-q.js": "components/f-a-q.js",
+    "components/head.js": "components/head.js",
+    "components/nuxt-logo.js": "components/nuxt-logo.js",
+    "components/popup-metamask.js": "components/popup-metamask.js",
+    "components/popup-sell.js": "components/popup-sell.js",
+    "components/tutorial.js": "components/tutorial.js",
+    "pages/claim/index.js": "pages/claim/index.js",
+    "pages/contact-us/index.js": "pages/contact-us/index.js",
+    "pages/faq/index.js": "pages/faq/index.js",
+    "pages/history/index.js": "pages/history/index.js",
+    "pages/home.js": "pages/home.js",
+    "pages/index.js": "pages/index.js",
+    "pages/nft/index.js": "pages/nft/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/bottom.js": "components/bottom.js.map",
+    "components/f-a-q.js": "components/f-a-q.js.map",
+    "components/head.js": "components/head.js.map",
+    "components/nuxt-logo.js": "components/nuxt-logo.js.map",
+    "components/popup-metamask.js": "components/popup-metamask.js.map",
+    "components/popup-sell.js": "components/popup-sell.js.map",
+    "components/tutorial.js": "components/tutorial.js.map",
+    "pages/claim/index.js": "pages/claim/index.js.map",
+    "pages/contact-us/index.js": "pages/contact-us/index.js.map",
+    "pages/faq/index.js": "pages/faq/index.js.map",
+    "pages/history/index.js": "pages/history/index.js.map",
+    "pages/home.js": "pages/home.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/nft/index.js": "pages/nft/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

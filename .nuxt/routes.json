@@ -1,0 +1,51 @@
+[
+  {
+    "name": "claim",
+    "path": "/claim",
+    "component": "/Users/talk/Desktop/document/RioDefi/rio/lottery/pages/claim/index.vue",
+    "chunkName": "pages/claim/index",
+    "_name": "_4626a09e"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "/Users/talk/Desktop/document/RioDefi/rio/lottery/pages/contact-us/index.vue",
+    "chunkName": "pages/contact-us/index",
+    "_name": "_58643642"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "/Users/talk/Desktop/document/RioDefi/rio/lottery/pages/faq/index.vue",
+    "chunkName": "pages/faq/index",
+    "_name": "_242ca0b8"
+  },
+  {
+    "name": "history",
+    "path": "/history",
+    "component": "/Users/talk/Desktop/document/RioDefi/rio/lottery/pages/history/index.vue",
+    "chunkName": "pages/history/index",
+    "_name": "_24695936"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "/Users/talk/Desktop/document/RioDefi/rio/lottery/pages/home.vue",
+    "chunkName": "pages/home",
+    "_name": "_814fb4e0"
+  },
+  {
+    "name": "nft",
+    "path": "/nft",
+    "component": "/Users/talk/Desktop/document/RioDefi/rio/lottery/pages/nft/index.vue",
+    "chunkName": "pages/nft/index",
+    "_name": "_7d6b27de"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/talk/Desktop/document/RioDefi/rio/lottery/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7fe9cff1"
+  }
+]
